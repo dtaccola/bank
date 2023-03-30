@@ -1,6 +1,6 @@
 import React from 'react'
 
-function FeedbackCard() {
+const FeedbackCard = () => {
   return (
     <div>FeedbackCard</div>
   )
